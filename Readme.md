@@ -89,8 +89,10 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
-
-
+| <img src="![2](https://user-images.githubusercontent.com/25264755/197020963-b76757aa-b5e0-4e7a-bce3-1f795942f8ff.png)" width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `haroldops` |
+| <img src="![3](https://user-images.githubusercontent.com/25264755/197021190-af701aaf-60ef-4713-a4ec-a136c71c4cab.png)" width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `chaotic Intern` |
+| <img src="![4](https://user-images.githubusercontent.com/25264755/197021321-9bf6d511-a56b-4f6b-b2db-c2b65ace5483.png)" width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `Grandma Tech Guy` |
+| <img src="![5](https://user-images.githubusercontent.com/25264755/197021436-889d338d-9606-4627-babb-d09ea3cb8e26.png)" width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `developer Calendar` |
 <!-- Add your meme directly above this comment. -->
 
 ## Credits
